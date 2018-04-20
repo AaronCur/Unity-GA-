@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8e0d8be79b40d1546a0aab9502176da3
+timeCreated: 1498739456
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Janda Apple Cobbler
+  fontNames:
+  - Janda Apple Cobbler
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

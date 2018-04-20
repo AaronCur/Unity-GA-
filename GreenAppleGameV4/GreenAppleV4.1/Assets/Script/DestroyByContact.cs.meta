@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b765207dc94b84419671d2a32e85a40
+timeCreated: 1494335370
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - appleText: {instanceID: 0}
+  - pickUpAudioSource: {instanceID: 0}
+  - levelCompleteAudioSource: {instanceID: 0}
+  - image: {fileID: 2800000, guid: 65f7ae7659f9e6a439904e657146c0d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
